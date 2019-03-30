@@ -13,5 +13,5 @@ Conheça o [Estartando Devs][] faça a diferença!
 
 Instrutor [Frederico (Fredd)][]
 
-[Estartando Devs]: htts://estartandodevs.com.br
+[Estartando Devs]: http://www.estartandodevs.com.br
 [Frederico (Fredd)]: https://www.linkedin.com/in/fredericobezerra/
